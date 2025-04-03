@@ -26,6 +26,6 @@ Werb Developer
 <a href="http://www.github.com/Patipatsasothorn"><img src="https://github-readme-stats.vercel.app/api?username=Patipatsasothorn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Patipatsasothorn's GitHub stats" /></a>
 
 
-![Top Languages](https://raw.githubusercontent.com/username/repo/main/languages.svg)
+![Top Languages](https://raw.githubusercontent.com/Patipatsasothorn/repo/main/languages.svg)
 
 
