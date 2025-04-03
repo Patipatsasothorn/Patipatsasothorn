@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patipat Sasothorn
+
 
 ![Your Image](https://raw.githubusercontent.com/Patipatsasothorn/CUstomerShipQR/main/ChatGPT%20Image%20Apr%203%2C%202025%2C%2003_48_10%20PM.png)
 
