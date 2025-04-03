@@ -23,7 +23,7 @@ Werb Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Patipatsasothorn" >
-  <img src="https://github-readme-stats.vercel.app/api?username=Patipatsasothorn&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&cache_seconds=10" alt="Patipatsasothorn's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Patipatsasothorn&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&cache_seconds=5" alt="Patipatsasothorn's GitHub stats" />
 </a>
 
 
