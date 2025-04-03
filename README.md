@@ -26,11 +26,6 @@ Werb Developer
 <a href="http://www.github.com/Patipatsasothorn"><img src="https://github-readme-stats.vercel.app/api?username=Patipatsasothorn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Patipatsasothorn's GitHub stats" /></a>
 
 
-### 🏆 Languages I Use
-PHP <progress value="51.37" max="100"></progress> 51.37%  
-Go <progress value="26.26" max="100"></progress> 26.26%  
-JavaScript <progress value="10.92" max="100"></progress> 10.92%  
-HTML <progress value="8.93" max="100"></progress> 8.93%  
-TypeScript <progress value="1.58" max="100"></progress> 1.58%  
-CSS <progress value="0.95" max="100"></progress> 0.95%  
+![Top Languages](https://raw.githubusercontent.com/username/repo/main/languages.svg)
+
 
